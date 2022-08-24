@@ -1,3 +1,47 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11023</md:content-id>  <md:title>History Grade 7</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>fb18da0d-f506-4166-960b-6ba2b5c1d28c</md:uuid>
-<md:slug>history-grade-7</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m23197"/>                            <col:module document="m23198"/>                            <col:module document="m23199"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m23202"/>                            <col:module document="m23203"/>                            <col:module document="m23204"/>                            <col:module document="m23205"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m23207"/>                            <col:module document="m23210"/>                            <col:module document="m23213"/>                            <col:module document="m23215"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m23217"/>                            <col:module document="m23222"/>                            <col:module document="m23226"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11023</md:content-id>
+    <md:title>History Grade 7</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>fb18da0d-f506-4166-960b-6ba2b5c1d28c</md:uuid>
+    <md:slug>history-grade-7</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m23197"/>
+        <col:module document="m23198"/>
+        <col:module document="m23199"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m23202"/>
+        <col:module document="m23203"/>
+        <col:module document="m23204"/>
+        <col:module document="m23205"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m23207"/>
+        <col:module document="m23210"/>
+        <col:module document="m23213"/>
+        <col:module document="m23215"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m23217"/>
+        <col:module document="m23222"/>
+        <col:module document="m23226"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
